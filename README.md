@@ -1,2 +1,1 @@
 # Xypo
-Responsive web
